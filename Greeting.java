@@ -1,5 +1,4 @@
 /*
- * Andy Lee
  * Distributed Systems - Project 2
  */
 
