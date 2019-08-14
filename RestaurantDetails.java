@@ -1,6 +1,4 @@
 /*
- * Seungryoul Lee
- * RUID: 164003396 / netID: sl1263
  * Distributed Systems - Project 2
  */
 
